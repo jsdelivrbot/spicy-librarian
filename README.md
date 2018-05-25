@@ -6,3 +6,4 @@ adding a list
 * something new
 * another new thing
 * one more new item
+This is what a terrible website with pretty colours looks like
