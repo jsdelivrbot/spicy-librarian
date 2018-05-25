@@ -9,3 +9,5 @@ adding a list
 * one more new item
 
 This is what a terrible website with pretty colours looks like
+<p> This is the start of a paragraph. There will be lots of informaiotn here...eventually <\p>
+  
